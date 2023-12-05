@@ -1,0 +1,68 @@
+/* For Mobile */
+@media only screen and (max-width: 480px) {
+    :root {
+        --white: #ffffff;
+        --text: #333333;
+      }
+    .shwe-banner {
+        background-image: url("./personal/cover-photo.jpg");
+        height: 400px;
+        background-size: cover;
+        background-position: center ;
+    }
+    .shwe-banner-nav {
+        padding-top: 30px;
+        margin: 0px auto;
+        background-color: rgb(65, 65, 65, 0.4);
+        height: 95px;
+    }
+    .shwe-logo-text {
+        color: var(--white);
+        font-weight: bold;
+        font-style: italic;
+    }
+    .shwe-logo-text-two {
+        color: var(--white);
+        font-weight: lighter;
+        padding-left: 7px;
+    }
+    .nav-list {
+        margin-top: 3px;
+    }
+    .nav-list-item {
+        padding-left: 5px;
+        padding-right: 5px;
+        font-style: italic;
+        font-weight: 450;
+        font-size: 20px;
+        color: var(--white);
+    }
+    .shwe-card {
+        box-shadow: 0 2px 4px 0 rgba(54, 54, 54, 0.2), 0 6px 20px 0 rgba(54, 54, 54, 0.2);
+    }
+    .shwe-title {
+        color: var(--text);
+    }
+    .shwe-card-title {
+        color: var(--text);
+    }
+    .shwe-portfolio-image {
+        max-width: 100%;
+        height: auto;
+    }
+    .shwe-footer {
+        height: 100px;
+    }
+    .shwe-footer-text {
+        opacity: 70%;
+    }
+    .shwe-phone {
+        text-decoration: none;
+    }
+    .mt-20 {
+        margin-top: 20px;
+    }
+    .mt-10 {
+        margin-top: 10px;
+    }
+  }
