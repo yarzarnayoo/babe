@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/babe/static/css/main.eb0153fa.css",
+    "main.js": "/babe/static/js/main.92c0d203.js",
+    "static/js/787.61ca9986.chunk.js": "/babe/static/js/787.61ca9986.chunk.js",
+    "static/media/11. page (Restaurant).jpg": "/babe/static/media/11. page (Restaurant).5d89bca0e9995930ab82.jpg",
+    "static/media/8. page (Pavilion).jpg": "/babe/static/media/8. page (Pavilion).c1b1b5a8a72231780cdc.jpg",
+    "static/media/9. page (Residential).jpg": "/babe/static/media/9. page (Residential).dd475ce402d263c340ee.jpg",
+    "static/media/10. page (Residential).jpg": "/babe/static/media/10. page (Residential).bff82bd5022a6e438926.jpg",
+    "static/media/7. page (Kitchen).jpg": "/babe/static/media/7. page (Kitchen).db13b3e4d8805ca5fc99.jpg",
+    "static/media/6. page (Detail Drawing).jpg": "/babe/static/media/6. page (Detail Drawing).8606698c7fd75cd5d7ae.jpg",
+    "static/media/5. page (Detail Drawing).jpg": "/babe/static/media/5. page (Detail Drawing).a37c311cbc038117ca45.jpg",
+    "static/media/4. page (Detail Drawing) new.jpg": "/babe/static/media/4. page (Detail Drawing) new.0737b2eebf5e5a20eb56.jpg",
+    "static/media/cover-photo.jpg": "/babe/static/media/cover-photo.7c1db8dec30452d6c4c7.jpg",
+    "static/media/logo.svg": "/babe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/babe/index.html",
+    "main.eb0153fa.css.map": "/babe/static/css/main.eb0153fa.css.map",
+    "main.92c0d203.js.map": "/babe/static/js/main.92c0d203.js.map",
+    "787.61ca9986.chunk.js.map": "/babe/static/js/787.61ca9986.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0153fa.css",
+    "static/js/main.92c0d203.js"
+  ]
+}
